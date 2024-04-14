@@ -1,0 +1,27 @@
+a:link       { text-decoration: none; color: rgb(50,50,50) }
+
+
+a:visited     { text-decoration: none; color: rgb(100,100,100 }
+a:hover      { text-decoration: none; color: rgb(180,0,0) }
+a:active     { text-decoration: none; color: rgb(180,0,0) }
+body
+{
+	font-family: Arial;
+	background-color: rgb(255,255,255);
+	color: rgb(0,0,0);
+	font-size: 10pt;
+}
+table
+{
+	table-border-color-light: rgb(100,100,100);
+	table-border-color-dark: rgb(100,100,100); 
+	font-family: Arial;
+	font-size: 10pt;
+	color: rgb(0,0,0);
+
+}
+h1, h2, h3, h4, h5, h6
+{
+	font-family: Arial;
+	color: rgb(0,0,0);
+}
